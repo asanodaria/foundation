@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Payroll Entry
 
-Payroll Entry enables bulk processing of payroll for employees company wide or employees of a particular branch, department or designation. Payroll Entry helps you create Salary Slips _in bulk_ for selected employees, submit the created Salary Slips at once, submit salary accrual entry and finally post bank entry for recording the salary payment, automating almost every step involved in payroll processing. Here's how you can use Payroll Entry to simplify your payroll processing.
+Payroll Entry enables bulk processing of payroll for employees company wise or employees of a particular branch, department or designation. Payroll Entry helps you create Salary Slips _in bulk_ for selected employees, submit the created Salary Slips at once, submit salary accrual entry and finally post bank entry for recording the salary payment, automating almost every step involved in payroll processing. Here's how you can use Payroll Entry to simplify your payroll processing.
 
 > Human Resources > Payroll > Payroll Entry > New Payroll Entry
 
